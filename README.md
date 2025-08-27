@@ -22,9 +22,9 @@ En son sürümü [Releases](../../releases) kısmından indirebilirsiniz.
 
 ## 📌 Özellikler
 
-- ✅ Kullanımı kolay arayüz  
-- ✅ Hafif ve hızlı  
-- ✅ Ekstra kurulum gerektirmez  
+- ✅ 50 Hakkınızı 150 Hak olarak gösterecektir!  
+- ✅ Token limiti yükseltildi!  
+- ✅ BugFix  
 
 ---
 
