@@ -15,7 +15,7 @@ En son sürümü [Releases](../../releases) kısmından indirebilirsiniz.
 ## 🔧 Kurulum
 
 1. Sağ üstten **Releases** kısmına gidin.
-2. En güncel sürümü indirin (`ProjeAdi.exe`).
+2. En güncel sürümü indirin (`CursorSaver.exe`).
 3. İndirilen dosyayı çift tıklayarak çalıştırın.
 
 ---
